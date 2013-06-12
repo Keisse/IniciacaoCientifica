@@ -1,8 +1,13 @@
+/*Dupla: Keisse Lopes Brandão e Daniel Melo Lafetá
+  Trabalho: Travelling salesman problem
+  Professor: Alberto Miranda
+  Matéria: Otimização*/
+
 #include <cstdlib>
 #include <iostream>
 #include "glpk.h"
-
 #define INF (2000111222)
+
 
 int nCidades, nEstradas;
 int G[123][123];
