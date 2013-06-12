@@ -1,7 +1,7 @@
 /*Faculdade de Ciência e Tecnologia de Montes Claros
   Professor: Alberto Miranda
   Matéria: Otimização
-  Trabalho: Travelling salesman problem
+  Trabalho: Travelling Salesman Problem
   Keisse Lopes Brandão e Daniel Melo Lafetá 
 */
 
