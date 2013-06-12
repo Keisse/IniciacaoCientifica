@@ -1,7 +1,9 @@
-/*Dupla: Keisse Lopes Brandão e Daniel Melo Lafetá
-  Trabalho: Travelling salesman problem
+/*Faculdade de Ciência e Tecnologia de Montes Claros
   Professor: Alberto Miranda
-  Matéria: Otimização*/
+  Matéria: Otimização
+  Trabalho: Travelling salesman problem
+  Keisse Lopes Brandão e Daniel Melo Lafetá 
+*/
 
 #include <cstdlib>
 #include <iostream>
